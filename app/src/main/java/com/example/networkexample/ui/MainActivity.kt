@@ -1,7 +1,8 @@
-package com.example.networkexample
+package com.example.networkexample.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.networkexample.R
 
 class MainActivity : AppCompatActivity() {
 
