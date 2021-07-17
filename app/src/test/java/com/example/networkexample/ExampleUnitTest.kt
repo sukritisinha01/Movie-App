@@ -1,4 +1,4 @@
-package com.example.movie
+package com.example.networkexample
 
 import org.junit.Test
 
